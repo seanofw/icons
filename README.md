@@ -1,7 +1,7 @@
 Sean's Dialog Icons
 ===================
 
-Version 1.0
+**Version 1.0**
 
 This image collection contains a handful of images that I've needed for
 a long time when making dialog boxes and other UI components.  I've been
@@ -16,12 +16,16 @@ every power-of-two and power-of-two-times-three size from 16 to 256
 pixels square, so they are included at 16, 24, 32, 48, 64, 96, 128, 192,
 256, 384, and 512-pixel sizes, respectively.
 
+-----------------------------------------------------------------------
+
 The four images available in the current version are:
 
-- Error    - A white X on a red circle
-- Warning  - A black ! on a yellow triangle
-- Question - A white ? on a blue circle
-- Success  - A green checkmark on a white circle
+- ![image](error-24.png) **Error** - _white X on a red circle_
+- ![image](warning-24.png) **Warning** - _black ! on a yellow triangle_
+- ![image](question-24.png) **Question** - _A white ? on a blue circle_
+- ![image](success-24.png) **Success** - _A green checkmark on a white circle_
+
+-----------------------------------------------------------------------
 
 These images are in the PUBLIC DOMAIN (see [LICENSE.txt](LICENSE.txt)),
 which means you can do anything you want with them, as long as you leave
@@ -40,4 +44,4 @@ images ought to be added, or something needs to be changed, feel free
 to suggest your revisions or additions in the official repository at
 https://github.com/seanofw/icons/issues .
 
-                               -- Sean Werkema
+-- Sean Werkema
